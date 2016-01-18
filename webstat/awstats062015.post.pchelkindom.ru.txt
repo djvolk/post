@@ -1,0 +1,254 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201506 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.post.pchelkindom.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1999                
+POS_TIME 2671                
+POS_VISITOR 6286                
+POS_DAY 6440                
+POS_DOMAIN 3198                
+POS_LOGIN 3428                
+POS_ROBOT 3617                
+POS_WORMS 3749                
+POS_EMAILSENDER 3880                
+POS_EMAILRECEIVER 4023                
+POS_SESSION 6594                
+POS_SIDER 6777                
+POS_FILETYPES 4158                
+POS_DOWNLOADS 4352                
+POS_OS 4400                
+POS_BROWSER 4452                
+POS_SCREENSIZE 4549                
+POS_UNKNOWNREFERER 4623                
+POS_UNKNOWNREFERERBROWSER 4710                
+POS_ORIGIN 4792                
+POS_SEREFERRALS 4928                
+POS_PAGEREFS 5072                
+POS_SEARCHWORDS 5220                
+POS_KEYWORDS 5372                
+POS_MISC 2335                
+POS_ERRORS 5431                
+POS_CLUSTER 3284                
+POS_SIDER_404 5563                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150701115927 1 0 10126794761626
+FirstTime 20150618095735
+LastTime 20150629113042
+LastUpdate 20150702001202 1 0 0 0 0
+TotalVisits 7                   
+TotalUnique 2                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 9 54 255628 19 19 61739
+10 115 481 781615 13 17 9903
+11 116 248 683141 3 3 2961
+12 65 121 276381 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 9 9 29845 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 314 913 2026610
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+post 35 550 296164 20150629112949
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 226 66962 0 0
+png 6 3144 0 0
+html 197 1413083 0 0
+js 329 326066 0 0
+woff2 26 36522 0 0
+Unknown 91 125244 0 0
+gif 38 55589 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+winvista 913
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 2
+chrome43.0.2357.124 822
+chrome43.0.2357.130 91
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 29 29
+From1 0 0
+From2 0 0
+From3 0 0
+From4 285 884
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 7 4729
+400 5 6167
+500 13 54198
+504 4 1968
+404 6 7541
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/post/web/assets/f69931af/fonts/glyphicons-halflings-regular.woff2 2 http://post.pchelkindom.ru/post/web/assets/f69931af/css/bootstrap.css
+/post/web/assets/f69931af/fonts/glyphicons-halflings-regular.ttf 2 http://post.pchelkindom.ru/post/web/assets/f69931af/css/bootstrap.css
+/post/web/assets/f69931af/fonts/glyphicons-halflings-regular.woff 2 http://post.pchelkindom.ru/post/web/assets/f69931af/css/bootstrap.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+62.213.14.151 305 904 1996765 20150629113042
+95.67.187.2 9 9 29845 20150618171147
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20150618 252 764 1674124 2
+20150622 30 58 188660 2
+20150626 21 50 114586 1
+20150629 11 41 49240 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+5mn-15mn 1
+2mn-5mn 3
+0s-30s 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 183 1388769 4 1
+/parceldetail 81 80578 1 5
+/assets/f69931af/fonts/glyphicons-halflings-regular.woff2 26 36522 1 1
+/web/files/letter.html 14 24314 0 0
+/settings 9 44395 1 0
+/mailrequest 1 271 0 0
+END_SIDER

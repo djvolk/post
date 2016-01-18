@@ -1,0 +1,292 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201507 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.post.pchelkindom.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1999                
+POS_TIME 2670                
+POS_VISITOR 6398                
+POS_DAY 6726                
+POS_DOMAIN 3414                
+POS_LOGIN 3647                
+POS_ROBOT 3839                
+POS_WORMS 4003                
+POS_EMAILSENDER 4134                
+POS_EMAILRECEIVER 4277                
+POS_SESSION 7205                
+POS_SIDER 7401                
+POS_FILETYPES 4412                
+POS_DOWNLOADS 4649                
+POS_OS 4697                
+POS_BROWSER 4750                
+POS_SCREENSIZE 4921                
+POS_UNKNOWNREFERER 4995                
+POS_UNKNOWNREFERERBROWSER 5082                
+POS_ORIGIN 5164                
+POS_SEREFERRALS 5304                
+POS_PAGEREFS 5448                
+POS_SEARCHWORDS 5596                
+POS_KEYWORDS 5748                
+POS_MISC 2334                
+POS_ERRORS 5807                
+POS_CLUSTER 3503                
+POS_SIDER_404 5948                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150801003001 1 0 5650463778959
+FirstTime 20150701115929
+LastTime 20150731134610
+LastUpdate 20150802001202 1 0 0 0 0
+TotalVisits 32                  
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 4 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 43 70 512608 47 50 59304
+1 1 1 9247 37 37 20160
+2 72 78 554273 54 54 63446
+3 0 0 0 42 42 23507
+4 0 0 0 36 37 103296
+5 0 0 0 36 36 19481
+6 0 0 0 37 37 20160
+7 0 0 0 40 40 22197
+8 67 248 684125 83 85 71527
+9 0 0 0 42 42 23523
+10 11 81 182766 48 49 31638
+11 131 379 875269 51 57 30349
+12 217 684 1538144 73 77 82041
+13 173 510 1588462 51 58 29426
+14 131 525 702616 45 45 119958
+15 147 170 667919 54 56 135729
+16 0 0 0 48 48 27166
+17 4 4 23176 39 39 21055
+18 9 23 90027 48 49 27628
+19 2 2 18277 42 44 23627
+20 0 0 0 41 41 22365
+21 53 348 1063076 54 57 61607
+22 346 612 2188096 51 53 167514
+23 92 197 854192 49 53 27689
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1499 3932 11552273
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+post 104 2537 3762820 20150729231311
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+wget 322 72450 20150731233001 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 898 543181 0 0
+png 25 40568 0 0
+woff2 97 292176 0 0
+map 7 370720 0 0
+php 10 92657 0 0
+html 835 6105282 0 0
+js 1449 2362872 0 0
+Unknown 550 1591514 0 0
+gif 61 153303 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 1
+winvista 3932
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 5
+chrome44.0.2403.125 132
+chrome43.0.2357.134 1369
+chrome43.0.2357.132 491
+chrome44.0.2403.89 339
+chrome43.0.2357.130 1601
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 157 157
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1342 3775
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 668 484257
+400 8 9932
+500 47 584116
+404 39 45362
+504 66 35748
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 4
+/changeMailstatus 1 http://post.pchelkindom.ru/
+/%D1%81ronmail 19 -
+/changemailstatus 3 http://post.pchelkindom.ru/
+/site/%D1%81ronmail 16 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+5.165.43.184 686 1387 4678737 20150723125210
+62.213.14.151 427 1441 2617479 20150713125239
+46.0.87.120 151 453 1463285 20150731134610
+46.0.82.197 105 137 999782 20150714080843
+46.0.99.99 73 250 945456 20150702231145
+46.0.8.184 57 264 847534 20150713004621
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 17
+20150701 103 554 854762 1
+20150702 258 885 1933235 2
+20150703 35 68 363289 1
+20150706 66 94 187136 1
+20150710 45 225 544191 1
+20150713 58 162 805716 3
+20150714 97 104 721922 3
+20150716 343 745 2373680 1
+20150717 49 49 287856 2
+20150718 30 81 180400 2
+20150719 76 76 301399 2
+20150720 52 218 294958 2
+20150722 116 197 1018323 3
+20150723 20 21 222121 3
+20150725 84 321 794885 1
+20150729 63 128 631969 3
+20150731 4 4 36431 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 9
+5mn-15mn 3
+0s-30s 10
+2mn-5mn 2
+15mn-30mn 3
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 19
+/ 835 6105282 32 19
+/sms 166 723633 0 2
+/settings 105 591225 0 2
+/assets/f69931af/fonts/glyphicons-halflings-regular.woff2 97 292176 0 2
+/parceldetail 85 69760 0 5
+/changemailstatus 51 13821 0 0
+/sendsms 43 59801 0 1
+/mailrequest 36 9756 0 0
+/smslog 26 9362 0 1
+/site/cronmail 10 40964 0 0
+/gii 3 4731 0 0
+/cronmail 5 1348 0 0
+/assets/f69931af/css/bootstrap.css.map 7 370720 0 0
+/changestatus 2 542 0 0
+/site/index 2 10011 0 0
+/changesmsstatus 2 542 0 0
+/gii/model 10 41081 0 0
+/gii/crud 4 14937 0 0
+/web/index.php 10 92657 0 0
+END_SIDER

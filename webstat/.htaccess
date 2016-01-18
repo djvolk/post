@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/pchelkindom.ru/post/webstat"
+AuthUserFile /var/www/admin/data/etc/3039367.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>
